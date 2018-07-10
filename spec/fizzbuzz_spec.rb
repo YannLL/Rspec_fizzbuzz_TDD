@@ -16,7 +16,7 @@ describe 'Fizzbuzz' do
   end
 
   it 'should correctly apply fizzbuzz to a given range' do
-
+    
   end
 
 end

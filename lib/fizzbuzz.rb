@@ -25,7 +25,7 @@ class Fizzbuzz
     loop do
 
 
-      i += 2
+      i += 1
       puts i
 
       if num1 % 15 == 0
